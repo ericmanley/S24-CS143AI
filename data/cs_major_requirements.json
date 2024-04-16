@@ -1,0 +1,60 @@
+[
+    {
+        "requirement_name" : "CS 065",
+        "num_required" : 1,
+        "courses" : ["CS 065"]
+    },
+    {
+        "requirement_name" : "CS 066",
+        "num_required" : 1,
+        "courses" : ["CS 066"]
+    },
+    {
+        "requirement_name" : "CS 067",
+        "num_required" : 1,
+        "courses" : ["CS 067"]
+    },
+    {
+        "requirement_name" : "CS 083",
+        "num_required" : 1,
+        "courses" : ["CS 083"]
+    },
+    {
+        "requirement_name" : "CS 130",
+        "num_required" : 1,
+        "courses" : ["CS 130"]
+    },
+    {
+        "requirement_name" : "CS 137",
+        "num_required" : 1,
+        "courses" : ["CS 137"]
+    },
+    {
+        "requirement_name" : "CS 188",
+        "num_required" : 1,
+        "courses" : ["CS 188"]
+    },
+    {
+        "requirement_name" : "CS 191",
+        "num_required" : 1,
+        "courses" : ["CS 191"]
+    },
+    {
+        "requirement_name" : "MATH 050",
+        "num_required" : 1,
+        "courses" : ["MATH 050"]
+    },
+    {
+        "requirement_name" : "Math Proof",
+        "num_required" : 1,
+        "courses" : ["MATH 054", "MATH 101"]
+    },
+    {
+        "requirement_name" : "Upper Division Component",
+        "num_required" : 5,
+        "courses" : ["CS 114","CS 116","CS 128","CS 135","CS 139",
+                     "CS 143","CS 146","CS 147","CS 150","CS 160","CS 161",
+                     "CS 165","CS 167","CS 172","CS 178","CS 195","IS 145",
+                     "IS 150","IS 160","MATH 150","MATH 165","MATH 139"]
+    }
+]

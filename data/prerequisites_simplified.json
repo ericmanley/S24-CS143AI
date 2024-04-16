@@ -1,0 +1,82 @@
+[
+    {
+        "course" : "CS 066",
+        "prerequisites" : ["CS 065"]
+    },
+    {
+        "course" : "CS 067",
+        "prerequisites" : ["CS 066"]
+    },
+    {
+        "course" : "CS 116",
+        "prerequisites" : ["CS 065"]
+    },
+    {
+        "course" : "CS 120",
+        "prerequisites" : ["CS 065"]
+    },
+    {
+        "course" : "CS 128",
+        "prerequisites" : ["CS 065","MATH 050"]
+    },
+    {
+        "course" : "CS 130",
+        "prerequisites" : ["CS 066"]
+    },
+    {
+        "course" : "CS 135",
+        "prerequisites" : ["CS 067"]
+    },
+    {
+        "course" : "CS 137",
+        "prerequisites" : ["CS 067","MATH 050","MATH 054"]
+    },
+    {
+        "course" : "CS 139",
+        "prerequisites" : ["CS 065","MATH 050","MATH 054"]
+    },
+    {
+        "course" : "CS 143",
+        "prerequisites" : ["CS 066"]
+    },
+    {
+        "course" : "CS 147",
+        "prerequisites" : ["CS 067"]
+    },
+    {
+        "course" : "CS 150",
+        "prerequisites" : ["CS 065","MATH 101"]
+    },
+    {
+        "course" : "CS 160",
+        "prerequisites" : ["CS 130"]
+    },
+    {
+        "course" : "CS 161",
+        "prerequisites" : ["CS 130","CS 135"]
+    },
+    {
+        "course" : "CS 165",
+        "prerequisites" : ["CS 065","MATH 080","MATH 100"]
+    },
+    {
+        "course" : "CS 167",
+        "prerequisites" : ["CS 065","CS 066"]
+    },
+    {
+        "course" : "CS 172",
+        "prerequisites" : ["CS 130"]
+    },
+    {
+        "course" : "CS 178",
+        "prerequisites" : ["CS 066"]
+    },
+    {
+        "course" : "CS 188",
+        "prerequisites" : ["CS 067"]
+    },
+    {
+        "course" : "CS 191",
+        "prerequisites" : ["CS 188"]
+    }
+]
